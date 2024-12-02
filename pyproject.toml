@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "goat"
+version = "0.1.0"
+description = ""
+authors = ["ethan-yuu <1812851741@qq.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
