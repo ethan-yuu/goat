@@ -17,6 +17,8 @@ chardet = "^5.2.0"
 psutil = "^6.1.1"
 # mysql 驱动
 mysql-connector-python = "^9.1.0"
+# orm框架（相当于mybatis-plus）
+sqlalchemy = "^2.0.37"
 
 
 [build-system]
