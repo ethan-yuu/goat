@@ -19,6 +19,8 @@ psutil = "^6.1.1"
 mysql-connector-python = "^9.1.0"
 # orm框架（相当于mybatis-plus）
 sqlalchemy = "^2.0.37"
+# 基于asyncio(异步io)实现的HTTP框架
+aiohttp = "^3.11.11"
 
 
 [build-system]
